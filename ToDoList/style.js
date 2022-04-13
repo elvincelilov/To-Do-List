@@ -127,3 +127,5 @@ addbutton.addEventListener("click" ,addElement)
 if (localStorage.getItem("memory")){
   list.innerHTML=localStorage.getItem("memory" , memory)
 }
+
+// ""
