@@ -88,13 +88,16 @@ li {
     font-size: 20px;
     display: flex;
     justify-content: space-between;
+    word-break: break-all;
 }
 .close{
     background-image: url(Group\ 59.svg);
     width: 22px;
     height: 22px;
     margin-right: 25px;
+    margin-left: 5%;
     border-radius: 14px;
+    background-repeat: no-repeat;
 }
 .close:hover{
     background-color: #833AE0;
