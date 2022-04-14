@@ -51,7 +51,7 @@ window.addEventListener('load', () => {
   let li =document.createElement("li");
   let inputvalue=input.value;
   let a=document.createTextNode(inputvalue);
-  let span =document.createElement("span");
+  let span =document.createElement("button");
     span.className = "close";
     li.appendChild(span);
   
@@ -127,5 +127,3 @@ addbutton.addEventListener("click" ,addElement)
 if (localStorage.getItem("memory")){
   list.innerHTML=localStorage.getItem("memory" , memory)
 }
-
-// ""

@@ -11,6 +11,11 @@
     margin-bottom: 10%;
 }
 
+#name{
+    padding-top: 2%;
+    margin-left: 6%;
+}
+
 .block{
     width: 300px;
     margin-left: 11%;
@@ -86,7 +91,6 @@ li {
      padding-bottom: 2%;
     font-size: 20px;
     display: flex;
-    flex-direction:row;
     justify-content: space-between;
 
 }
