@@ -58,8 +58,8 @@ window.addEventListener('load', () => {
     let close = document.getElementsByClassName("close");
   for (i = 0; i < close.length; i++) {
     close[i].addEventListener("click" ,function() {
-    let listElement = this.parentElement;
-    listElement.remove();
+     this.parentElement.remove();
+    
     toLocal()
    }) 
   }
