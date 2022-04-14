@@ -40,7 +40,6 @@ img{
     padding-bottom: 3%;
 }
 #input{
-    
     height: 35px;
     border-radius: 10px;
     padding-left: 10px;
@@ -48,7 +47,6 @@ img{
     font-size: 17px;
     outline: none;
 }
-
 #button{
     font-family: 'Roboto';
     font-style: normal;
@@ -81,9 +79,7 @@ img{
     text-align: center;
     justify-content: center;
     margin-right: 19%;
-
 }
-
 li {
     list-style: none;
     padding-left: 10px;
@@ -92,14 +88,11 @@ li {
     font-size: 20px;
     display: flex;
     justify-content: space-between;
-
 }
 .close{
     background-image: url(Group\ 59.svg);
     width: 22px;
     height: 22px;
-    font-size: 15px;
-    color: black;
     margin-right: 25px;
     border-radius: 14px;
 }
