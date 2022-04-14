@@ -1,4 +1,4 @@
 # To-Do-List
 todolist
 
-https://list-etmek-elvin.netlify.app
+https://todolist-elvin.netlify.app
