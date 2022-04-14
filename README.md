@@ -1,4 +1,4 @@
 # To-Do-List
 todolist
-# online demo
-https://todolistelvin.netlify.app
+
+https://list-etmek-elvin.netlify.app
